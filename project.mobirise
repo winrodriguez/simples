@@ -33,6 +33,15 @@
         "#000000"
       ]
     },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/b5ee8058864959.5a0c4b0b47d9b-128x83.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
     "versionFirst": "4.7.2",
     "uniqCompNum": 9,
     "versionPublish": "4.7.2"
